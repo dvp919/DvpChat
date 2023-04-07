@@ -9,21 +9,33 @@
 /* Begin PBXBuildFile section */
 		1FC9EAC929E0A38500C64B8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAC829E0A38500C64B8E /* AppDelegate.swift */; };
 		1FC9EACB29E0A38500C64B8E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EACA29E0A38500C64B8E /* SceneDelegate.swift */; };
-		1FC9EACD29E0A38500C64B8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EACC29E0A38500C64B8E /* ViewController.swift */; };
+		1FC9EACD29E0A38500C64B8E /* ConverstationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EACC29E0A38500C64B8E /* ConverstationsViewController.swift */; };
 		1FC9EAD029E0A38500C64B8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FC9EACE29E0A38500C64B8E /* Main.storyboard */; };
 		1FC9EAD229E0A38700C64B8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FC9EAD129E0A38700C64B8E /* Assets.xcassets */; };
 		1FC9EAD529E0A38700C64B8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FC9EAD329E0A38700C64B8E /* LaunchScreen.storyboard */; };
+		1FC9EAE529E0A76C00C64B8E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAE429E0A76C00C64B8E /* LoginViewController.swift */; };
+		1FC9EAE729E0A7B100C64B8E /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAE629E0A7B100C64B8E /* RegisterViewController.swift */; };
+		1FC9EAE929E0A7E000C64B8E /* PhotoViewerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAE829E0A7E000C64B8E /* PhotoViewerViewController.swift */; };
+		1FC9EAEB29E0A81600C64B8E /* VideoPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAEA29E0A81600C64B8E /* VideoPlayerViewController.swift */; };
+		1FC9EAED29E0A84200C64B8E /* NewConverstionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAEC29E0A84200C64B8E /* NewConverstionViewController.swift */; };
+		1FC9EAEF29E0A86400C64B8E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC9EAEE29E0A86400C64B8E /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1FC9EAC529E0A38500C64B8E /* DvpChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DvpChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FC9EAC829E0A38500C64B8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FC9EACA29E0A38500C64B8E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1FC9EACC29E0A38500C64B8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1FC9EACC29E0A38500C64B8E /* ConverstationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverstationsViewController.swift; sourceTree = "<group>"; };
 		1FC9EACF29E0A38500C64B8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1FC9EAD129E0A38700C64B8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FC9EAD429E0A38700C64B8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1FC9EAD629E0A38700C64B8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FC9EAE429E0A76C00C64B8E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		1FC9EAE629E0A7B100C64B8E /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		1FC9EAE829E0A7E000C64B8E /* PhotoViewerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewerViewController.swift; sourceTree = "<group>"; };
+		1FC9EAEA29E0A81600C64B8E /* VideoPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewController.swift; sourceTree = "<group>"; };
+		1FC9EAEC29E0A84200C64B8E /* NewConverstionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConverstionViewController.swift; sourceTree = "<group>"; };
+		1FC9EAEE29E0A86400C64B8E /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +68,69 @@
 		1FC9EAC729E0A38500C64B8E /* DvpChat */ = {
 			isa = PBXGroup;
 			children = (
-				1FC9EAC829E0A38500C64B8E /* AppDelegate.swift */,
-				1FC9EACA29E0A38500C64B8E /* SceneDelegate.swift */,
-				1FC9EACC29E0A38500C64B8E /* ViewController.swift */,
-				1FC9EACE29E0A38500C64B8E /* Main.storyboard */,
-				1FC9EAD129E0A38700C64B8E /* Assets.xcassets */,
-				1FC9EAD329E0A38700C64B8E /* LaunchScreen.storyboard */,
+				1FC9EAE029E0A5BC00C64B8E /* Resources */,
+				1FC9EADF29E0A5B100C64B8E /* ViewModels */,
+				1FC9EADE29E0A5AA00C64B8E /* Models */,
+				1FC9EADD29E0A59800C64B8E /* Views */,
+				1FC9EADC29E0A59000C64B8E /* Controllers */,
 				1FC9EAD629E0A38700C64B8E /* Info.plist */,
 			);
 			path = DvpChat;
+			sourceTree = "<group>";
+		};
+		1FC9EADC29E0A59000C64B8E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1FC9EACC29E0A38500C64B8E /* ConverstationsViewController.swift */,
+				1FC9EAE429E0A76C00C64B8E /* LoginViewController.swift */,
+				1FC9EAE629E0A7B100C64B8E /* RegisterViewController.swift */,
+				1FC9EAE829E0A7E000C64B8E /* PhotoViewerViewController.swift */,
+				1FC9EAEA29E0A81600C64B8E /* VideoPlayerViewController.swift */,
+				1FC9EAEC29E0A84200C64B8E /* NewConverstionViewController.swift */,
+				1FC9EAEE29E0A86400C64B8E /* ProfileViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1FC9EADD29E0A59800C64B8E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1FC9EAE129E0A5FF00C64B8E /* Storyboards */,
+				1FC9EAD129E0A38700C64B8E /* Assets.xcassets */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1FC9EADE29E0A5AA00C64B8E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1FC9EADF29E0A5B100C64B8E /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		1FC9EAE029E0A5BC00C64B8E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1FC9EACA29E0A38500C64B8E /* SceneDelegate.swift */,
+				1FC9EAC829E0A38500C64B8E /* AppDelegate.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1FC9EAE129E0A5FF00C64B8E /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				1FC9EACE29E0A38500C64B8E /* Main.storyboard */,
+				1FC9EAD329E0A38700C64B8E /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +204,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FC9EACD29E0A38500C64B8E /* ViewController.swift in Sources */,
+				1FC9EAED29E0A84200C64B8E /* NewConverstionViewController.swift in Sources */,
+				1FC9EAE529E0A76C00C64B8E /* LoginViewController.swift in Sources */,
+				1FC9EAE729E0A7B100C64B8E /* RegisterViewController.swift in Sources */,
+				1FC9EACD29E0A38500C64B8E /* ConverstationsViewController.swift in Sources */,
+				1FC9EAEB29E0A81600C64B8E /* VideoPlayerViewController.swift in Sources */,
 				1FC9EAC929E0A38500C64B8E /* AppDelegate.swift in Sources */,
+				1FC9EAEF29E0A86400C64B8E /* ProfileViewController.swift in Sources */,
 				1FC9EACB29E0A38500C64B8E /* SceneDelegate.swift in Sources */,
+				1FC9EAE929E0A7E000C64B8E /* PhotoViewerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,8 +365,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,8 +394,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
